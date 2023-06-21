@@ -166,7 +166,7 @@ function Box_third(props) {
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
           style: style_color_1,
           className: "dev_description",
-          children: [" ", "I myself Abhinav Raj am the designer and coder of this presale website and also holder of InCTFJ national hackathon excellence certificate beside this I am also experienced in java and solidity . also dev. of projects like ayasbit , Ayas Locker and VTAC Sense.", " "]
+          children: [" ", "I myself Abhinav Raj am the designer and coder of this presale website and also holder of InCTFJ national hackathon excellence certificate beside this I am also experienced in java and solidity . also dev. of projects like ayasbit , Ayas Locker and VTAC Sense. abhinavrajdevcontact@gmail.com", " "]
         }, void 0, true, {
           fileName: _jsxFileName,
           lineNumber: 39,
@@ -183,7 +183,7 @@ function Box_third(props) {
           alt: "Abhinav Raj"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 48,
+          lineNumber: 49,
           columnNumber: 11
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("h1", {
           style: style_color_2,
@@ -191,20 +191,20 @@ function Box_third(props) {
           children: [" ", "Abhinav Raj", " "]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 53,
+          lineNumber: 54,
           columnNumber: 11
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
           style: style_color_2,
           className: "dev_description",
-          children: [" ", "I myself Abhinav Raj am the designer and coder of this presale website and also holder of InCTFJ national hackathon excellence certificate beside this I am also experienced in java and solidity . also dev. of projects like ayasbit , Ayas Locker and VTAC Sense.", " "]
+          children: [" ", "I myself Abhinav Raj am the designer and coder of this presale website and also holder of InCTFJ national hackathon excellence certificate beside this I am also experienced in java and solidity . also dev. of projects like ayasbit , Ayas Locker and VTAC Sense. abhinavrajdevcontact@gmail.com", " "]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 57,
+          lineNumber: 58,
           columnNumber: 11
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 47,
+        lineNumber: 48,
         columnNumber: 9
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
@@ -213,7 +213,7 @@ function Box_third(props) {
           alt: "Abhinav Raj"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 66,
+          lineNumber: 68,
           columnNumber: 11
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("h1", {
           style: style_color_3,
@@ -221,20 +221,20 @@ function Box_third(props) {
           children: [" ", "Abhinav Raj", " "]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 71,
+          lineNumber: 73,
           columnNumber: 11
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
           style: style_color_3,
           className: "dev_description",
-          children: [" ", "I myself Abhinav Raj am the designer and coder of this presale website and also holder of InCTFJ national hackathon excellence certificate beside this I am also experienced in java and solidity . also dev. of projects like ayasbit , Ayas Locker and VTAC Sense.", " "]
+          children: [" ", "I myself Abhinav Raj am the designer and coder of this presale website and also holder of InCTFJ national hackathon excellence certificate beside this I am also experienced in java and solidity . also dev. of projects like ayasbit , Ayas Locker and VTAC Sense. abhinavrajdevcontact@gmail.com", " "]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 75,
+          lineNumber: 77,
           columnNumber: 11
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 65,
+        lineNumber: 67,
         columnNumber: 9
       }, this)]
     }, void 0, true, {
@@ -245,7 +245,7 @@ function Box_third(props) {
       style: style_space_third
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 84,
+      lineNumber: 87,
       columnNumber: 7
     }, this)]
   }, void 0, true, {
@@ -44154,7 +44154,7 @@ function _unsupportedIterableToArray(o, minLen) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "017963a4fee0997de8ce"; }
+/******/ 		__webpack_require__.h = function() { return "b28e8126c2b3032a3688"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
